@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d597548-7fa7-4aa3-a9f1-bad423408f1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/js/task3.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js/task3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5366a559-4f5c-488e-aa25-7ad2c4ffcb55" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,117 +23,167 @@
         <option value="https://github.com/Aiyumi3/js8_Koroban_Liubov" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kCGsBqacqFrGl1CyJfBVNNCJPK" />
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Aiyumi3" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="js8_Koroban_Liubov" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.idea/js/task1.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/js/task3.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1kHknrCNWBvYZay0ge1TqA97ZJF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\Public\Documents\java\IDEAProjects\js8_Koroban_Liubov" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Users\Public\Documents\java\IDEAProjects\js8_Koroban_Liubov\.idea" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d597548-7fa7-4aa3-a9f1-bad423408f1d" name="Default Changelist" comment="" />
-      <created>1605197364833</created>
+      <changelist id="5366a559-4f5c-488e-aa25-7ad2c4ffcb55" name="Default Changelist" comment="" />
+      <created>1605365075656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605197364833</updated>
-      <workItem from="1605197368273" duration="21310000" />
-      <workItem from="1605250152123" duration="10127000" />
+      <updated>1605365075656</updated>
+      <workItem from="1605365084447" duration="26027000" />
+      <workItem from="1605446690145" duration="9516000" />
     </task>
-    <task id="LOCAL-00001" summary="js8_hw">
-      <created>1605229123722</created>
+    <task id="LOCAL-00001" summary="js">
+      <created>1605373930320</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1605229123722</updated>
+      <updated>1605373930321</updated>
     </task>
-    <task id="LOCAL-00002" summary="js8_hw">
-      <created>1605305674375</created>
+    <task id="LOCAL-00002" summary="js">
+      <created>1605394291549</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1605305674376</updated>
+      <updated>1605394291570</updated>
     </task>
-    <task id="LOCAL-00003" summary="js8_hw">
-      <created>1605306373363</created>
+    <task id="LOCAL-00003" summary="js">
+      <created>1605399104846</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1605306373363</updated>
+      <updated>1605399104846</updated>
     </task>
-    <task id="LOCAL-00004" summary="js8_hw">
-      <created>1605313455332</created>
+    <task id="LOCAL-00004" summary="js">
+      <created>1605399958157</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1605313455332</updated>
+      <updated>1605399958157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="js">
+      <created>1605483611315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605483611316</updated>
+    </task>
+    <task id="LOCAL-00006" summary="js">
+      <created>1605487687809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605487687809</updated>
+    </task>
+    <task id="LOCAL-00007" summary="js">
+      <created>1605488064224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605488064224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="js">
+      <created>1605488638027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605488638027</updated>
+    </task>
+    <task id="LOCAL-00009" summary="js">
+      <created>1605489434974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605489434974</updated>
+    </task>
+    <task id="LOCAL-00010" summary="js8">
+      <created>1605491209518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605491209518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js8_hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="js8_hw" />
+    <MESSAGE value="js" />
+    <MESSAGE value="js8" />
+    <option name="LAST_COMMIT_MESSAGE" value="js8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1605228594970">
+    <state x="298" y="22" key="#Deployment" timestamp="1605489355896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605228594970" />
-    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1605313448531">
+    <state x="298" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605489355896" />
+    <state x="418" y="185" key="#Notifications" timestamp="1605488175215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605313448531" />
-    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1605251455669">
+    <state x="418" y="185" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1605488175215" />
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1605491200493">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605251455669" />
-    <state x="524" y="260" key="Github.ShareDialog" timestamp="1605230850701">
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605491200493" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1605490777114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="524" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605230850701" />
-    <state x="513" y="232" key="VCS.EditChangelistDialog" timestamp="1605229550562">
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605490777114" />
+    <state x="433" y="229" key="Github.CreatePullRequestDialog" timestamp="1605490910750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="513" y="232" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1605229550562" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605251143578">
+    <state x="433" y="229" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1605490910750" />
+    <state x="524" y="260" key="Github.ShareDialog" timestamp="1605489734186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605251143578" />
+    <state x="524" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605489734186" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605491376665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605491376665" />
+    <state x="487" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605488804728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605488804728" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605385366865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605385366865" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1605378958544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605378958544" />
   </component>
 </project>
